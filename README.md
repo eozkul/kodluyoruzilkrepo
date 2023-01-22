@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+https://kodluyoruz.org/tr/kodluyoruz/ Eğitimi kapsamında açtığım ilk repo
 Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz .Net Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası barındırıyor
 

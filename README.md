@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
-<a name="https://kodluyoruz.org/tr/kodluyoruz/">Kodluyoruz</a> Eğitimi kapsamında açtığım ilk repo
+<a href="https://www.kodluyoruz.org/" rel="nofollow">Kodluyoruz</a> Eğitimi kapsamında açtığım ilk repo
 Kodluyoruz Ilk Repo
+
 Bu repo Kodluyoruz .Net Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası barındırıyor
 
 

@@ -2,6 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz .Net Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası barındırıyor
+![alt text](http://C:\Users\esen\Desktop\kodluyoruzilkrepo.jpg)
 
 
 Installation
